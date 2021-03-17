@@ -62,6 +62,6 @@ def calculaConcurso():
 
 
 
-#contaConsumo()
-#podeVotar()
+contaConsumo()
+podeVotar()
 calculaConcurso() 
